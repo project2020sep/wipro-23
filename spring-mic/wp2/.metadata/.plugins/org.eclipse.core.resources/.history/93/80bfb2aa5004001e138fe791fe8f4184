@@ -1,0 +1,33 @@
+package com.example.demo.service;
+
+import com.example.demo.model.Account;
+import com.example.demo.repository.AccountRepository;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+import org.springframework.web.bind.annotation.GetMapping;
+
+import java.util.List;
+@Service
+public class AccountServiceImpl implements AccountService{
+    @Autowired
+    AccountRepository accountRepository;
+
+
+    @Override
+    public List<Account> findAll() {
+        List<Account> accountList = accountRepository.findAll();
+        return accountList;
+    }
+
+    @Override
+    public Account save(Account accobj) {
+        Account a = accountRepository.save(accobj);
+        accountRepository.f
+        return a;
+    }
+
+    @Override
+    public void deleteAll() {
+accountRepository.deleteAll();
+    }
+}

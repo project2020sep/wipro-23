@@ -1,0 +1,19 @@
+
+
+java:S1488+"^Immediately return this expression instead of assigning it to the temporary variable "empres".(›ô…¹üÿÿÿÿHıRMINORZ
+CODE_SMELL
+–
+java:S14889"^Immediately return this expression instead of assigning it to the temporary variable "empres".(ƒõ¯çÿÿÿÿÿ8„–è”…1HîRMINORZ
+CODE_SMELL
+…
+java:S1488E"YImmediately return this expression instead of assigning it to the temporary variable "e".(“é‡åHƒRMINORZ
+CODE_SMELL
+…
+java:S1488?"YImmediately return this expression instead of assigning it to the temporary variable "e".(Ä·ÒÂH€RMINORZ
+CODE_SMELL
+
+java:S1488$"_Immediately return this expression instead of assigning it to the temporary variable "emplist".(ğ¢·ÖıÿÿÿÿHúRMINORZ
+CODE_SMELL
+‘
+java:S14882"^Immediately return this expression instead of assigning it to the temporary variable "empres".(‰•‘£8‚ë’…1HÌRMINORZ
+CODE_SMELL

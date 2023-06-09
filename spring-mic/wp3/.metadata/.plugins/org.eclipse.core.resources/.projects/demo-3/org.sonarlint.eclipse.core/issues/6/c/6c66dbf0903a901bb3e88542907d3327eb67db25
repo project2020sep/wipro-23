@@ -1,0 +1,15 @@
+
+’
+java:S1488 "_Immediately return this expression instead of assigning it to the temporary variable "deplist".(Âš¾‡8Ë¼Âñ„1H»RMINORZ
+CODE_SMELL
+–
+java:S1488'"^Immediately return this expression instead of assigning it to the temporary variable "depres".(ÄÆƒƒüÿÿÿÿ8Ë¼Âñ„1H¾RMINORZ
+CODE_SMELL
+‘
+java:S1488-"YImmediately return this expression instead of assigning it to the temporary variable "e".(Èçÿùþÿÿÿÿ8Ë¼Âñ„1HÁRMINORZ
+CODE_SMELL
+Œ
+java:S14883"YImmediately return this expression instead of assigning it to the temporary variable "d".(Â‰„­8Ë¼Âñ„1HÄRMINORZ
+CODE_SMELL
+Ž	java:S116"\Rename this field "DepartmentService" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÅÄ•8Ë¼Âñ„1HÇRMINORZ
+CODE_SMELL

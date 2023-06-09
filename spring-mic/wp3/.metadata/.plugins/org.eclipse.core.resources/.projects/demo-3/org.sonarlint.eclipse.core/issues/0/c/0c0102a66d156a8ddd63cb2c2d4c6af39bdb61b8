@@ -1,0 +1,15 @@
+
+l
+java:S2789&"@Methods with an "Optional" return type should never return null.(¥¹ï8ÀÈï„1HäRMAJORZBUG
+i
+java:S1135%"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8ÀÈï„1HêRINFOZ
+CODE_SMELL
+‘
+java:S1488"YImmediately return this expression instead of assigning it to the temporary variable "d".(‚¶Åòûÿÿÿÿ8ƒµÜï„1HRMINORZ
+CODE_SMELL
+•
+java:S1488"]Immediately return this expression instead of assigning it to the temporary variable "dlist".(Å¾Ÿîşÿÿÿÿ8©ÊÔï„1HöRMINORZ
+CODE_SMELL
+
+java:S1488"[Immediately return this expression instead of assigning it to the temporary variable "dep".(œ ÿ³8íÂàï„1H›RMINORZ
+CODE_SMELL

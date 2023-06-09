@@ -1,0 +1,10 @@
+
+r
+java:S1854":Remove this useless assignment to local variable "result".(ћчт…ю€€€€8ХєфƒЖ1H±RMAJORZ
+CODE_SMELL
+c
+java:S1481"+Remove this unused "result" local variable.(ћчт…ю€€€€8ХєфƒЖ1H≤RMINORZ
+CODE_SMELL
+p
+java:S1128"8Remove this unused import 'reactor.core.publisher.Flux'.(ЈдЌ∆ш€€€€8ХєфƒЖ1HіRMINORZ
+CODE_SMELL

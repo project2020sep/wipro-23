@@ -1,0 +1,2 @@
+jwt.secret=wipro
+jwt.get.token.uri=/authenticate

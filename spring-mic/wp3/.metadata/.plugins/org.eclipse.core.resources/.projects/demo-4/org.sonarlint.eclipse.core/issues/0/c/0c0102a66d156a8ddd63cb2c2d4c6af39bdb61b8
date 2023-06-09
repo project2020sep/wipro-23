@@ -1,0 +1,18 @@
+
+
+java:S1488+"[Immediately return this expression instead of assigning it to the temporary variable "dep".(üû®Ò8óüŒ•…1HÃ	RMINORZ
+CODE_SMELL
+‡
+java:S1488"[Immediately return this expression instead of assigning it to the temporary variable "dep".(œ ÿ³HõRMINORZ
+CODE_SMELL
+e
+java:S2789&"@Methods with an "Optional" return type should never return null.(¥¹ïHøRMAJORZBUG
+b
+java:S1135%"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHùRINFOZ
+CODE_SMELL
+
+java:S1488"]Immediately return this expression instead of assigning it to the temporary variable "dlist".(Å¾ŸîşÿÿÿÿHïRMINORZ
+CODE_SMELL
+Š
+java:S1488"YImmediately return this expression instead of assigning it to the temporary variable "d".(‚¶ÅòûÿÿÿÿHòRMINORZ
+CODE_SMELL

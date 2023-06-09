@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1683517274831_0" label="Java Main Sources" name="Java Main Sources"/>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1683517274873_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1686041114910_3" label="docker-modules" name="docker-modules">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/docker-compose" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/docker-compose-2" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/docker-containers" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/docker-images" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/docker-spring-boot" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/docker-spring-boot-postgres" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/docker1" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1683517281182_2" label="Window Working Set" name="Aggregate for window 1683517281182"/>
+</workingSetManager>

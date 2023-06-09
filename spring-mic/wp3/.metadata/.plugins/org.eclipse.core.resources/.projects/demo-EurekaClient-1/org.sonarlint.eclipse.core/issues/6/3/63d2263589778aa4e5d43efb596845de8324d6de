@@ -1,0 +1,23 @@
+
+
+java:S1488$"_Immediately return this expression instead of assigning it to the temporary variable "emplist".(ğ¢·ÖıÿÿÿÿH´RMINORZ
+CODE_SMELL
+
+java:S1488+"^Immediately return this expression instead of assigning it to the temporary variable "empres".(›ô…¹üÿÿÿÿH·RMINORZ
+CODE_SMELL
+Š
+java:S14882"^Immediately return this expression instead of assigning it to the temporary variable "empres".(‰•‘£HºRMINORZ
+CODE_SMELL
+
+java:S14889"^Immediately return this expression instead of assigning it to the temporary variable "empres".(ƒõ¯çÿÿÿÿÿH½RMINORZ
+CODE_SMELL
+…
+java:S1488?"YImmediately return this expression instead of assigning it to the temporary variable "e".(Ä·ÒÂHÀRMINORZ
+CODE_SMELL
+…
+java:S1488E"YImmediately return this expression instead of assigning it to the temporary variable "e".(“é‡åHÃRMINORZ
+CODE_SMELL
+r
+java:S46840"@Replace this persistent entity with a simple POJO or DTO object.(àø¼áHÆRCRITICALZVULNERABILITY
+w
+java:S46847"@Replace this persistent entity with a simple POJO or DTO object.(Å·şşÿÿÿÿHÇRCRITICALZVULNERABILITY

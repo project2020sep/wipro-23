@@ -1,0 +1,19 @@
+
+Š
+java:S1488@"YImmediately return this expression instead of assigning it to the temporary variable "e".(âÖü½üÿÿÿÿHŒRMINORZ
+CODE_SMELL
+Š
+java:S1488,"^Immediately return this expression instead of assigning it to the temporary variable "depres".(ïË¿‚H‰RMINORZ
+CODE_SMELL
+
+java:S1488%"_Immediately return this expression instead of assigning it to the temporary variable "deplist".( «ÎŞÿÿÿÿÿH†RMINORZ
+CODE_SMELL
+‘
+java:S14883"^Immediately return this expression instead of assigning it to the temporary variable "depres".(¢Š…—8ñô…1H¯RMINORZ
+CODE_SMELL
+Š
+java:S1488F"YImmediately return this expression instead of assigning it to the temporary variable "d".(„âÏêûÿÿÿÿHRMINORZ
+CODE_SMELL
+–
+java:S1488:"^Immediately return this expression instead of assigning it to the temporary variable "depres".(µó¶ëşÿÿÿÿ8µœ•…1H 	RMINORZ
+CODE_SMELL

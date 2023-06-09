@@ -1,0 +1,4 @@
+jwt.secret=wipro
+jwt.get.token.uri=/authenticate
+
+server.port=9091

@@ -1,0 +1,11 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Ûê›Ï8©­ž²†1HúRMAJORZ
+CODE_SMELL
+T
+java:S3864"!Remove this use of "Stream.peek".(¾‹—ˆ8©­ž²†1HüRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¾‹—ˆ8©­ž²†1HýRMAJORZ
+CODE_SMELL
+…
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8©­ž²†1HûRMAJORZ
+CODE_SMELL

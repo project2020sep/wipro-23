@@ -1,0 +1,12 @@
+
+q
+java:S1128"9Remove this unused import 'jakarta.persistence.OneToOne'.(Ç­É™üÿÿÿÿ8¨ç¦¸…1H»RMINORZ
+CODE_SMELL
+t
+java:S1128"<Remove this unused import 'jakarta.persistence.CascadeType'.(ÃÃÊŠúÿÿÿÿ8¨ç¦¸…1H¹RMINORZ
+CODE_SMELL
+b
+java:S1135%"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿH­RINFOZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(ý«ã¾8¢ÕÎ¹…1H©RMAJORZ
+CODE_SMELL

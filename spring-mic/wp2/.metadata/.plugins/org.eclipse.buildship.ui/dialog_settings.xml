@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.buildship.ui.wizard.project.creation">
+		<item key="project_location" value="F:\wp2\mp2"/>
+		<item key="use_default_location" value="true"/>
+		<item key="gradle_user_home" value="C:\Users\dell\.gradle"/>
+		<item key="java_home" value="C:\Program Files\Java\jdk-11.0.14"/>
+	</section>
+	<section name="org.eclipse.buildship.ui.wizard.project.import">
+		<item key="project_location" value="C:\Users\dell\gradleprojects\demo"/>
+	</section>
+</section>

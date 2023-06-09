@@ -1,0 +1,6 @@
+
+
+java:S1128"GRemove this unused import 'org.springframework.jdbc.core.JdbcTemplate'.(å ê‹ÿÿÿÿÿ8¹ª¡„1H™RMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(£ÆÏÁ8ñ˜Ó„1HRMAJORZ
+CODE_SMELL

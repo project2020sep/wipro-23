@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+		https://www.springframework.org/schema/beans/spring-beans.xsd">
+
+		
+	<bean id="emp3" class="com.example.demo.Employee" >  
+		<property name ="empid" value="100"></property>
+		<property name ="ename" value="Mark"></property>
+		<property name ="phone" value="74859612"></property>
+		<property name ="city" value="Mumbai"></property>
+		<property name="dept" ref = "department"></property>
+	</bean>
+	
+	<bean id="department" class="com.example.demo.Department" >  
+		<property name ="deptid" value="1"></property>
+		<property name ="deptname" value="Technology"></property>
+		<property name ="loc" value="Mumbai"></property>
+	</bean>
+	
+	
+	
+
+</beans>

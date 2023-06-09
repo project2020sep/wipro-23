@@ -1,0 +1,18 @@
+
+i	java:S106+"9Replace this use of System.out or System.err by a logger.(‡²ÆşùÿÿÿÿH†RMAJORZ
+CODE_SMELL
+M
+java:S3864"!Remove this use of "Stream.peek".(Ÿ¨ŞH‚RMAJORZ
+CODE_SMELL
+}
+java:S1192"IDefine a constant instead of duplicating this literal "customer" 3 times.(©ŠıùÿÿÿÿHıRCRITICALZ
+CODE_SMELL
+i	java:S106$"9Replace this use of System.out or System.err by a logger.(‡²ÆşùÿÿÿÿH…RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿ¨ŞH„RMAJORZ
+CODE_SMELL
+R
+java:S3864"!Remove this use of "Stream.peek".(ñÄæ¥ıÿÿÿÿHƒRMAJORZ
+CODE_SMELL
+ƒ
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€HRMAJORZBUG

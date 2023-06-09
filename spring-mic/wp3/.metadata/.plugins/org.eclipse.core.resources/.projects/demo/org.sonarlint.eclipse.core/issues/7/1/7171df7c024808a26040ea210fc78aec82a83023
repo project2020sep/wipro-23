@@ -1,0 +1,19 @@
+
+j	java:S106"9Replace this use of System.out or System.err by a logger.(£ÆÏÁ8ÿ÷é•ƒ1HRMAJORZ
+CODE_SMELL
+r	java:S125"<This block of commented-out lines of code should be removed.(Þæ‰¥þÿÿÿÿ8ûþƒ1HARMAJORZ
+CODE_SMELL
+p	java:S106'"9Replace this use of System.out or System.err by a logger.(¨ô¢¨ýÿÿÿÿ8åÚµ’ƒ1H¢RMAJORZ
+CODE_SMELL
+h
+java:S1135%"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ8•û…žƒ1HLRINFOZ
+CODE_SMELL
+~
+java:S1128"KRemove this unused import 'org.springframework.context.ApplicationContext'.(»Ô»¿8šùø„1H‹RMINORZ
+CODE_SMELL
+˜
+java:S1128"fRemove this unused import 'org.springframework.context.annotation.AnnotationConfigApplicationContext'.(€¡¹;8šùø„1HRMINORZ
+CODE_SMELL
+—
+java:S1128	"_Remove this unused import 'org.springframework.context.support.ClassPathXmlApplicationContext'.(•ËÛüÿÿÿÿ8šùø„1HRMINORZ
+CODE_SMELL

@@ -1,0 +1,30 @@
+
+o	java:S1060"9Replace this use of System.out or System.err by a logger.(ÃµÉ®ıÿÿÿÿ8‹å±‹‡1H^RMAJORZ
+CODE_SMELL
+‰
+java:S1488;"^Immediately return this expression instead of assigning it to the temporary variable "depres".(ïË¿‚H_RMINORZ
+CODE_SMELL
+v
+java:S4684G"@Replace this persistent entity with a simple POJO or DTO object.(ÃÓòÒùÿÿÿÿHbRCRITICALZVULNERABILITY
+‰
+java:S1488O"YImmediately return this expression instead of assigning it to the temporary variable "e".(âÖü½üÿÿÿÿHcRMINORZ
+CODE_SMELL
+‰
+java:S1488U"YImmediately return this expression instead of assigning it to the temporary variable "d".(„âÏêûÿÿÿÿHfRMINORZ
+CODE_SMELL
+w
+java:S1128"@Remove this unused import 'org.springframework.http.HttpMethod'.(Ê¨Ä¡øÿÿÿÿ8‹å±‹‡1HiRMINORZ
+CODE_SMELL
+a
+java:S3740,"/Provide the parametrized type for this generic.( óå‚8‹å±‹‡1HkRMAJORZ
+CODE_SMELL
+o	java:S1064"9Replace this use of System.out or System.err by a logger.(ïõÒÿÿÿÿÿ8£Æ­Œ‡1HlRMAJORZ
+CODE_SMELL
+
+java:S1488I"^Immediately return this expression instead of assigning it to the temporary variable "depres".(µó¶ëşÿÿÿÿHmRMINORZ
+CODE_SMELL
+v
+java:S4684@"@Replace this persistent entity with a simple POJO or DTO object.(ß˜”ùÿÿÿÿHpRCRITICALZVULNERABILITY
+‰
+java:S1488B"^Immediately return this expression instead of assigning it to the temporary variable "depres".(¢Š…—HqRMINORZ
+CODE_SMELL

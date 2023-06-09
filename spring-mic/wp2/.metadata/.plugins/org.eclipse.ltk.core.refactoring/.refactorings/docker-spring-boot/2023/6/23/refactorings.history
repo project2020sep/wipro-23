@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;docker-spring-boot/src/main/java/com/baeldung&apos; to &apos;example&apos;" description="Rename resource &apos;baeldung&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/com/baeldung" name="example" stamp="1686041648389" updateReferences="true"/>
+</session>
